@@ -1,8 +1,8 @@
 {
     "name": "html5_boilerplate",
     "displayName": "HTML Boilerplate",
-    "publisher": "mscott",
-    "description": "A basic HTML5 boilerplate snippet.",
+    "publisher": "",
+    "description": "A basic HTML5 boilerplate snippet generator.",
     "version": "1.0.0",
     "license": "MIT",
     "icon": "images/icon.png",
