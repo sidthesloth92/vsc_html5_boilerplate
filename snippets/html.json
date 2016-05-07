@@ -1,0 +1,27 @@
+{
+	"html5boiler" : {
+		"prefix": "html5boiler",
+		"body" : [
+			"<!DOCTYPE html>",
+			"<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->",
+			"<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->",
+			"<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->",
+			"<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->",
+			"\t<head>",
+			"\t\t<meta charset=\"utf-8\">",
+			"\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+			"\t\t<title>$1</title>",
+			"\t\t<meta name=\"description\" content=\"\">",
+			"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    		"\t</head>",
+    		"\t<body>",
+        	"\t\t<!--[if lt IE 7]>",
+            "\t\t\t<p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"#\">upgrade your browser</a> to improve your experience.</p>",
+			"\t\t<![endif]-->",
+			"\t\t$2",
+			"\t</body>",
+			"</html>"
+		],
+		"description": "A very basic HTML5 boiler plate code."
+	}
+}

@@ -1,0 +1,43 @@
+{
+    "name": "html5_boilerplate",
+    "displayName": "HTML Boilerplate",
+    "publisher": "mscott",
+    "description": "A basic HTML5 boilerplate snippet.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#EFEFEF",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^0.10.x"
+    },
+    "homepage": "https://github.com/sidthesloth92/vsc_html5_boilerplate/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate/issues",
+        "email": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "html",
+        "html5",
+        "snippet",
+        "snippets",
+        "boilerplate"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/markdown.json"
+            }
+        ]
+    }
+}
