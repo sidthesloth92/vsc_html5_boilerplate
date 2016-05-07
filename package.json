@@ -1,7 +1,7 @@
 {
     "name": "html5_boilerplate",
     "displayName": "HTML Boilerplate",
-    "publisher": "",
+    "publisher": "sidthesloth",
     "description": "A basic HTML5 boilerplate snippet generator.",
     "version": "1.0.0",
     "license": "MIT",
@@ -16,7 +16,7 @@
     "homepage": "https://github.com/sidthesloth92/vsc_html5_boilerplate/blob/master/README.md",
     "bugs": {
         "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate/issues",
-        "email": ""
+        "email": "sidthesloth92@hotmail.com"
     },
     "repository": {
         "type": "git",
