@@ -18,6 +18,11 @@ Type 'html5-boilerplate' in an HTML file and select the snippet from the auto su
 6. Choose the extension from the drop down
 7. Reload Visual Studio Code
  
+# Usage
+1. Create a new document
+2. Set the language mode to html
+3. Type `html` the auto-complete option for `html5-boilerplate` shows. Select it to generate the boilerplate
+ 
 # Contact
 If you have any issues report them at [Issues](https://github.com/sidthesloth92/vsc_html5_boilerplate/issues)
 
