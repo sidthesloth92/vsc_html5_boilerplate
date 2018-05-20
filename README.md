@@ -6,7 +6,7 @@ This extension provides the standard HTML boilerplate code used in all web appli
 # Usage
 Type 'html5-boilerplate' in an HTML file and select the snippet from the auto suggestion dropdown to get the HTML boilerplate.
 
-![alt text](https://s19.postimg.org/3skf6mf5t/preview.gif "Snippets Preview")
+![alt text](https://s19.postimg.cc/8q54k0jk3/preview.gif "Snippets Preview")
 
 # Installation
 
