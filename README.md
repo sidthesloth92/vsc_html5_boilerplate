@@ -41,8 +41,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/romxz"><img src="https://avatars3.githubusercontent.com/u/9219521?v=4" width="100px;" alt=""/><br /><sub><b>R. Andrei Romero Alvarez</b></sub></a><br /><a href="https://github.com/sidthesloth92/vsc_html5_boilerplate/commits?author=romxz" title="Code">💻</a></td>
     <td align="center"><a href="http://dbwriteups.wordpress.com"><img src="https://avatars3.githubusercontent.com/u/4656109?v=4" width="100px;" alt=""/><br /><sub><b>Dinesh Balaji</b></sub></a><br /><a href="https://github.com/sidthesloth92/vsc_html5_boilerplate/commits?author=sidthesloth92" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/romxz"><img src="https://avatars3.githubusercontent.com/u/9219521?v=4" width="100px;" alt=""/><br /><sub><b>R. Andrei Romero Alvarez</b></sub></a><br /><a href="https://github.com/sidthesloth92/vsc_html5_boilerplate/commits?author=romxz" title="Code">💻</a></td>
   </tr>
 </table>
 
