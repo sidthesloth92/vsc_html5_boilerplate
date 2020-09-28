@@ -3,7 +3,7 @@
     "displayName": "HTML Boilerplate",
     "publisher": "sidthesloth",
     "description": "A basic HTML5 boilerplate snippet generator.",
-    "version": "1.0.3",
+    "version": "1.1.1",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -44,6 +44,14 @@
             },
             {
                 "language": "ruby",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "njk",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "django-html",
                 "path": "./snippets/html.json"
             }
         ]
