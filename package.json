@@ -45,6 +45,14 @@
             {
                 "language": "ruby",
                 "path": "./snippets/html.json"
+            },
+            {
+                "language": "njk",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "django-html",
+                "path": "./snippets/html.json"
             }
         ]
     }
