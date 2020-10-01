@@ -12,19 +12,22 @@ Type 'html5-boilerplate' in an HTML file and select the snippet from the auto su
 ![alt text](https://s19.postimg.cc/3mig98d5v/html_boilerplate_1_0_3.gif "Snippets Preview")
 
 # Installation
-
+Go to use any web browser and search for VS code
 1. Install Visual Studio Code 0.10.1 or higher
 2. Launch VS Code
 3. Launch the command palette by using `Ctrl-Shift-P` (Windows, Linux) or `Cmd-Shift-P` (OSX)
-4. Type in Install Extension and select 'Extensions : Install Extensions'
-5. Type `HTML5 Boilerplate`
-6. Choose the extension from the drop down
-7. Reload Visual Studio Code
+4. You can download Extension for better experience.
+5. VS code have default install extention for HTML5 and CSS3 in New version of VS code
+6. Type '!' in press inter this will Print Boilerplate
+7. Choose the extension from the drop down
+8 Reload Visual Studio Code
+
  
 # Usage
 1. Create a new document
 2. Set the language mode to html
 3. Type `html` the auto-complete option for `html5-boilerplate` shows. Select it to generate the boilerplate
+4. Any Language can be code after downloading compiler and extention for VD code.
  
 # Contact
 If you have any issues report them at [Issues](https://github.com/sidthesloth92/vsc_html5_boilerplate/issues)
