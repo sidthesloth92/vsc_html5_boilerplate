@@ -21,7 +21,7 @@
             "\t\t\t<p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"#\">upgrade your browser</a> to improve your experience.</p>",
 			"\t\t<![endif]-->",
 			"\t\t$3",
-			"\t\t<script src=\"$4\" async defer></script>",
+			"\t\t<script src=\"$4\" defer></script>",
 			"\t</body>",
 			"</html>"
 		],
